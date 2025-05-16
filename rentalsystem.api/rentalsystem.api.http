@@ -1,0 +1,6 @@
+@rentalsystem.api_HostAddress = http://localhost:5220
+
+GET {{rentalsystem.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
