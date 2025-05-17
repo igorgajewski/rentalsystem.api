@@ -12,7 +12,7 @@ using rentalsystem.api;
 namespace rentalsystem.api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250516202732_InitialCreate")]
+    [Migration("20250517170618_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
